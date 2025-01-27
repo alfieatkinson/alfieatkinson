@@ -8,18 +8,18 @@
 
 ---
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/?username=alfieatkinson&count_private=true&theme=tokyonight&showicons=true" align="center" alt="Anjal's github stats" />
+<img
+  src="https://github.com/alfieatkinson/alfieatkinson/blob/main/images/stat.svg"
+  alt="Alfie's WakaTime Activity"
+/>
 
  <h3 align="center">GitHub Statistics</h3>
 </p>
 
 ---
 
-<img
-  src="https://github.com/alfieatkinson/alfieatkinson/blob/main/images/stat.svg"
-  alt="Alfie's WakaTime Activity"
-/>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/?username=alfieatkinson&count_private=true&theme=tokyonight&showicons=true" align="center" alt="Anjal's github stats" />
 
 ---
 
@@ -29,4 +29,4 @@
 - Website: [alfieatkinson.dev](https://alfieatkinson.dev) (W.I.P.)
 
 ### 📄 Curriculum Vitae
-Check out my **[CV](https://github.com/alfieatkinson/Curriculum-Vitae/blob/main/main.pdf)** for more background on my background and experience!
+Check out my **[CV](https://github.com/alfieatkinson/Curriculum-Vitae/blob/main/main.pdf)** for more details on my background and experience!
