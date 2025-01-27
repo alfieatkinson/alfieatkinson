@@ -16,11 +16,10 @@
 
 ---
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfieatkinson&langs_count=5&theme=tokyonight" align="center" alt="Anjal's Top Languages" />
- <h3 align="center">Top Languages</h3>
-
-</p>
+<img
+  src="https://github.com/alfieatkinson/alfieatkinson/blob/main/images/stat.svg"
+  alt="Alfie's WakaTime Activity"
+/>
 
 ---
 
