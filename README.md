@@ -31,9 +31,9 @@
 <h3 align="center">GitHub Statistics</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfieatkinson&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alfie's GitHub statistics" />
+    <img align="center" src="https://github-readme-stats-eight-sigma-17.vercel.app/api?username=alfieatkinson&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alfie's GitHub statistics" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfieatkinson&layout=compact&theme=tokyonight&hide_border=true" alt="Alfie's top GitHub languages" />
+    <img align="center" src="https://github-readme-stats-eight-sigma-17.vercel.app/api/top-langs/?username=alfieatkinson&layout=compact&theme=tokyonight&hide_border=true" alt="Alfie's top GitHub languages" />
   </a> 
 </div>
