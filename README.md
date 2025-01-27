@@ -1,6 +1,6 @@
 # Hey... Its me [Alfie Atkinson](https://alfieatkinson.dev) 👋.
 
-### 📝 **About Me**
+### 📝 **About Me** 
 
 -   👨‍💻 Aspiring **Full-Stack Software Engineer**.
 -   📚 Current **Master of Science in Computer Science** student, with a **Bachelor of Science** in the same field.
