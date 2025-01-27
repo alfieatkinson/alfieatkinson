@@ -6,6 +6,8 @@
 -   📚 Current **Master of Science in Computer Science** student, with a **Bachelor of Science** in the same field.
 -   🐍 Specialising in **Python** and **JavaScript**, working with frameworks like **Django** and **React**.
 
+<h3 align="center">WakaTime Activity</h3>
+
 ---
 
 <img
@@ -13,8 +15,7 @@
   alt="Alfie's WakaTime Activity"
 />
 
- <h3 align="center">GitHub Statistics</h3>
-</p>
+<h3 align="center">GitHub Statistics</h3>
 
 ---
 
