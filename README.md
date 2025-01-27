@@ -6,28 +6,36 @@
 -   📚 Current **Master of Science in Computer Science** student, with a **Bachelor of Science** in the same field.
 -   🐍 Specialising in **Python** and **JavaScript**, working with frameworks like **Django** and **React**.
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/alfieatkinson">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=alfieatkinson" alt="Profile views"/>
+  <a href="https://wakatime.com/@3050734c-256a-44ef-82cc-c709a45147cd">
+    <img src="https://wakatime.com/badge/user/3050734c-256a-44ef-82cc-c709a45147cd.svg" alt="Total time coded since Sep 30 2024" />
+  </a>
+</div>
+
 ---
 
-<h3 align="center">WakaTime Activity</h3>
-
-<img
-  src="https://github.com/alfieatkinson/alfieatkinson/blob/main/images/stat.svg"
-  alt="Alfie's WakaTime Activity"
-/>
+<h3 align="center">Recent Activity</h3>
+<a href="https://wakatime.com/@3050734c-256a-44ef-82cc-c709a45147cd">
+  <img src="https://github.com/alfieatkinson/alfieatkinson/blob/main/images/stat.svg" alt="Alfie's recent activity" />
+</a>
 
 ---
 
 <h3 align="center">GitHub Statistics</h3>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/?username=alfieatkinson&count_private=true&theme=tokyonight&showicons=true" align="center" alt="Anjal's github stats" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfieatkinson&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alfie's GitHub statistics" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfieatkinson&layout=compact&theme=tokyonight&hide_border=true" alt="Alfie's top languages" />
+  </a> 
+</div>
 
 ---
-
-### 🌐 Contact Me
-- Email: [alf.atkinson13@gmail.com](mailto:alf.atkinson13@gmail.com)
-- LinkedIn: [Alfie Atkinson](https:://www.linkedin.com/in/alfieatkinson/)
-- Website: [alfieatkinson.dev](https://alfieatkinson.dev) (W.I.P.)
 
 ### 📄 Curriculum Vitae
 Check out my **[CV](https://github.com/alfieatkinson/Curriculum-Vitae/blob/main/main.pdf)** for more details on my background and experience!
