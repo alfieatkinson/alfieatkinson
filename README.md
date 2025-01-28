@@ -1,10 +1,24 @@
-# Hey... Its me [Alfie Atkinson](https://alfieatkinson.dev) 👋.
-
-### 📝 **About Me**
-
--   👨‍💻 Aspiring **Full-Stack Software Engineer**.
--   📚 Current **Master of Science in Computer Science** student, with a **Bachelor of Science** in the same field.
--   🐍 Specialising in **Python** and **JavaScript**, working with frameworks like **Django** and **React**.
+<table align="center">
+  <tr>
+    <td align="left" valign="bottom" style="padding: 100px;">
+      <h1>Hey... I'm Alfie Atkinson 👋</h1>
+      <ul>
+        <li>👨‍💻 Aspiring <strong>Full-Stack Software Engineer</strong>.</li>
+        <li>📚 Studying for a <strong>Master of Science in Computer Science</strong>.</li>
+        <li>🐍 Specialising in <strong>Python</strong> and <strong>JavaScript</strong>.</li>
+      </ul>
+      <img height="12" />
+    </td>
+    <td>
+      <img width="40" />
+    </td>
+    <td align="right" valign="center">
+      <a href="https://alfieatkinson.pythonanywhere.com/link">
+        <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" width="400" alt="Currently listening to" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/alfieatkinson/Curriculum-Vitae/blob/main/main.pdf">
@@ -55,15 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
----
-
-<h3 align="center">Currently Playing</h3>
-<div align="center">
-  <a href="https://alfieatkinson.pythonanywhere.com/link">
-    <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" alt="Currently listening to" />
-  </a>
 </div>
 
 ---
