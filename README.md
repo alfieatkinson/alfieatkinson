@@ -1,20 +1,10 @@
-<table align="center">
-  <tr height="220">
-    <td align="left" valign="center">
-      <h1>Hey... I'm Alfie Atkinson 👋</h1>
-      <ul>
-        <li>👨‍💻 Aspiring <strong>Full-Stack Software Engineer</strong>.</li>
-        <li>📚 Studying for a <strong>Master of Science in Computer Science</strong>.</li>
-        <li>🐍 Specialising in <strong>Python</strong> and <strong>JavaScript</strong>.</li>
-      </ul>
-    </td>
-    <td align="right" valign="center">
-      <a href="https://github.com/tthn0/Spotify-Readme">
-        <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" width="380" alt="Currently listening to" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hey... I'm Alfie Atkinson 👋</h1>
+
+<div align="center">
+  <p>👨‍💻 Aspiring <strong>Full-Stack Software Engineer</strong>.</p>
+  <p>📚 Studying for a <strong>Master of Science in Computer Science</strong>.</p>
+  <p>🐍 Specialising in <strong>Python</strong> and <strong>JavaScript</strong>; developing with <strong>Django</strong> and <strong>React</strong>.</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/alfieatkinson/Curriculum-Vitae/blob/main/main.pdf">
@@ -28,6 +18,9 @@
   </a>
   <a href="mailto:alf.atkinson13@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" alt="Discord badge" />
+  </a>
+  <a href="https://alfieatkinson.dev">
+    <img src="https://img.shields.io/badge/Website-6929C4?style=flat" alt="Website badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=alfieatkinson&color=6929C4" alt="Profile views" />
   <a href="https://wakatime.com/@3050734c-256a-44ef-82cc-c709a45147cd">
@@ -65,6 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" height="120" alt="Currently listening to" />
+  </a>
 </div>
 
 ---
