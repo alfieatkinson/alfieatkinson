@@ -1,4 +1,4 @@
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td align="left" valign="center">
       <h1>Hey... I'm Alfie Atkinson 👋</h1>
@@ -7,11 +7,10 @@
         <li>📚 Studying for a <strong>Master of Science in Computer Science</strong>.</li>
         <li>🐍 Specialising in <strong>Python</strong> and <strong>JavaScript</strong>.</li>
       </ul>
-      <img height="4" />
     </td>
     <td align="right" valign="center">
       <a href="https://alfieatkinson.pythonanywhere.com/link">
-        <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" width="400" alt="Currently listening to" />
+        <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" width="380" alt="Currently listening to" />
       </a>
     </td>
   </tr>
