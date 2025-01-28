@@ -9,7 +9,7 @@
       </ul>
     </td>
     <td align="right" valign="center">
-      <a href="https://github.com/tthn0/Spotify-Readme" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/tthn0/Spotify-Readme">
         <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" width="380" alt="Currently listening to" />
       </a>
     </td>
