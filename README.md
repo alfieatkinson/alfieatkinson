@@ -64,7 +64,7 @@
 
 <div align="center">
   <a href="https://github.com/tthn0/Spotify-Readme">
-    <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" height="120" alt="Currently listening to" />
+    <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" alt="Currently listening to" />
   </a>
 </div>
 
