@@ -1,16 +1,13 @@
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="left" valign="bottom" style="padding: 100px;">
+    <td align="left" valign="center">
       <h1>Hey... I'm Alfie Atkinson 👋</h1>
       <ul>
         <li>👨‍💻 Aspiring <strong>Full-Stack Software Engineer</strong>.</li>
         <li>📚 Studying for a <strong>Master of Science in Computer Science</strong>.</li>
         <li>🐍 Specialising in <strong>Python</strong> and <strong>JavaScript</strong>.</li>
       </ul>
-      <img height="12" />
-    </td>
-    <td>
-      <img width="40" />
+      <img height="4" />
     </td>
     <td align="right" valign="center">
       <a href="https://alfieatkinson.pythonanywhere.com/link">
