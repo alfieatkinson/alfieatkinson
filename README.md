@@ -7,7 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/alfieatkinson/Curriculum-Vitae/blob/main/main.pdf">
+  <a href="https://alfieatkinson.dev">
+    <img src="https://img.shields.io/badge/Website-6929C4?style=flat" alt="Website badge" />
+  </a>
+  <a href="https://raw.githubusercontent.com/alfieatkinson/Curriculum-Vitae/main/main.pdf">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae-6929C4?style=flat" alt="CV badge" />
   </a>
   <a href="https://www.linkedin.com/in/alfieatkinson">
@@ -18,9 +21,6 @@
   </a>
   <a href="mailto:alf.atkinson13@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" alt="Discord badge" />
-  </a>
-  <a href="https://alfieatkinson.dev">
-    <img src="https://img.shields.io/badge/Website-6929C4?style=flat" alt="Website badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=alfieatkinson&color=6929C4" alt="Profile views" />
   <a href="https://wakatime.com/@3050734c-256a-44ef-82cc-c709a45147cd">
