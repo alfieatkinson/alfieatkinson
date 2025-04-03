@@ -60,6 +60,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
+
+---
+
+<h3 align="center">Programming Statistics</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api?username=alfieatkinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="180" alt="Alfie's GitHub statistics" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/wakatime?username=alfieatkinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&theme=dracula" height="180" alt="Alfie's top WakaTime languages" />
+  </a>
+  <!--
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/top-langs?username=alfieatkinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&hide=tex,jupyter%20notebook" height="180" alt="Alfie's top GitHub languages" />
+  </a>
+  -->
+</div>
+
+<!--
+---
+
+<h3 align="center">WakaTime Statistics</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/wakatime?username=alfieatkinson&locale=en&hide_title=false&layout=compact&card_width=640&langs_count=6&hide_border=true&theme=dracula" alt="Alfie's top WakaTime languages" />
+  </a> 
+</div>
+-->
+
 ---
 
 <h3 align="center">Currently Playing</h3>
@@ -68,22 +97,3 @@
     <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" alt="Currently listening to" />
   </a>
 </div>
-
----
-
-<h3 align="center">GitHub Statistics</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api?username=alfieatkinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="180" alt="Alfie's GitHub statistics" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/top-langs?username=alfieatkinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&hide=tex" height="180" alt="Alfie's top GitHub languages" />
-  </a> 
-</div>
-
----
-
-<h3 align="center">Recent Activity</h3>
-<a href="https://wakatime.com/@3050734c-256a-44ef-82cc-c709a45147cd">
-  <img src="https://github.com/alfieatkinson/alfieatkinson/blob/main/images/stat.svg" alt="Alfie's recent activity" />
-</a>
