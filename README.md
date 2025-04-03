@@ -66,10 +66,10 @@
 <h3 align="center">Programming Statistics</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api?username=alfieatkinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="180" alt="Alfie's GitHub statistics" />
+    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api?username=alfieatkinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="Alfie's GitHub statistics" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/wakatime?username=alfieatkinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&theme=dracula" height="180" alt="Alfie's top WakaTime languages" />
+    <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/wakatime?username=alfieatkinson&locale=en&hide_title=false&layout=compact&langs_count=8&hide_border=true&theme=dracula" height="160" alt="Alfie's top WakaTime languages" />
   </a>
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -94,6 +94,6 @@
 <h3 align="center">Currently Playing</h3>
 <div align="center">
   <a href="https://github.com/tthn0/Spotify-Readme">
-    <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" alt="Currently listening to" />
+    <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=6929C4" width="600" alt="Currently listening to" />
   </a>
 </div>
