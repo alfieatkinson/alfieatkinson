@@ -87,7 +87,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api?username=alfieatkinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="Alfie's GitHub statistics" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://wakatime.com/@alfieatkinson">
     <img src="https://github-readme-stats-eight-sigma-17.vercel.app/api/wakatime?username=alfieatkinson&locale=en&hide_title=false&layout=compact&langs_count=8&hide_border=true&theme=dracula" height="160" alt="Alfie's top WakaTime languages" />
   </a>
 </div>
