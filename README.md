@@ -98,6 +98,7 @@ My work spans interaction design, motion, performance, and usability engineering
 
 </div>
 
+<!--
 ---
 
 <h3 align="center" style="color:#663399">Currently Playing</h3>
@@ -107,3 +108,4 @@ My work spans interaction design, motion, performance, and usability engineering
 <img src="https://alfieatkinson.pythonanywhere.com?theme=dark&spin=true&eq_color=663399" width="600"/>
 
 </div>
+-->
